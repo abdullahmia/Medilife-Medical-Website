@@ -1,0 +1,15 @@
+.video-promotion {
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.video-promotion-content h2{
+    font-size: 49px;
+    color: #ffffff;
+    margin-bottom: 50px;
+}
+.video-promotion-content p{
+    color: #ffffff;
+    line-height: 2;
+}

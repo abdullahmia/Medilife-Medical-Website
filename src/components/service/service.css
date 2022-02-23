@@ -1,0 +1,26 @@
+.service-icon {
+    height: 70px;
+    width: 168px;
+    background-color: #cacaca;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 100%;
+    transition: 0.5s ease-in-out;
+}
+
+.service-icon i {
+    font-size: 21px;
+    color: white;    
+}
+
+.service-content p {
+    font-size: 14px;
+    line-height: 21px;
+    color: #646161;
+}
+
+.service:hover .service-icon {
+    background-color: blue;
+    transition: 05.s ease-in-out !important;
+}

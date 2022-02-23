@@ -1,0 +1,13 @@
+.services-left-content h2{
+    font-size: 44px;
+}
+
+.services-left-content p {
+    font-size: 15px;
+    line-height: 23px;
+    color: #5e5a5a;
+}
+
+.service-item {
+    margin-bottom: 95px !important;
+}

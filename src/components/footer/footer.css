@@ -1,0 +1,48 @@
+.footer {
+    background-color: #020f20;
+}
+
+.footer-left p{
+    line-height: 2;
+    color: aliceblue;
+}
+.footer-social i {
+    color: wheat;
+    font-size: 23px;
+}
+
+.footer-title {
+    font-size: 18px;
+    color: #006cff;
+    margin-bottom: 50px;
+    text-transform: capitalize;
+    margin-top: 20px;
+}
+
+.footer-lestest-news-item .news-img {
+    height: 70px;
+    width: 70px;
+}
+
+.footer-lestest-news-item .news-img img {
+    height: auto;
+    width: 100% !important;
+    border-radius: 2px;
+}
+
+.footer-letest-news-content h2 {
+    font-size: 16px;
+    color: white;
+}
+
+.footer-letest-news-content p {
+    font-size: 12px;
+    color: white;
+}
+
+.footer-newsletter-text {
+    font-size: 12px;
+    color: #57595c;
+    font-style: italic;
+    margin-bottom: 0;
+}

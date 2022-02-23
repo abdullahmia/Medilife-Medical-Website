@@ -1,0 +1,10 @@
+.banner {
+    background-position: center !important;
+    background-size: cover;
+    padding: 200px 0px;
+}
+.banner-content h2{
+    color: #081f3e;
+    font-size: 60px;
+    margin-bottom: 20px;
+}

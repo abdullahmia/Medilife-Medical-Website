@@ -1,0 +1,14 @@
+.feature i {
+    font-size: 100px;
+    font-weight: 100;
+    color: #006cff;
+}
+.feature h2{
+    font-size: 48px;
+}
+.feature h6{
+    font-size: 22px;
+}
+.feature p{
+    line-height: 2;
+}

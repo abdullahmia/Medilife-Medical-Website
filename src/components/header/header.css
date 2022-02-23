@@ -1,0 +1,36 @@
+nav {
+    background-color: rgb(0 108 255 / 32%);
+    padding: 20px 0px !important;
+    z-index: 1;
+    transition: 0.4s ease-in-out;
+}
+
+.nav-active {
+    box-shadow: 0 10px 10px 0 rgb(0 0 0 / 20%);
+    background-color: #081f3e;
+    padding: 13px 0px !important;
+}
+
+li.nav-item {
+    padding: 0 13px;
+}
+
+.nav-link {
+    font-size: 14px;
+    text-transform: capitalize;
+    padding: 10px 20px;
+    color: #ffffff !important;
+    font-weight: 500;
+    margin: 0 1px;
+    font-weight: 600;
+}
+
+.scroll-on {
+    background-color: black;
+    color: white;
+}
+
+.active-nav {
+    background-color: #006cff;
+    color: white;
+}

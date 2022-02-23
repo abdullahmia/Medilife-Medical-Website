@@ -1,0 +1,10 @@
+.facility-content h2{
+    font-size: 42px;
+}
+
+.facility-content p {
+    color: #57595c;
+    font-size: 15px;
+    line-height: 2;
+    font-weight: 400;
+}

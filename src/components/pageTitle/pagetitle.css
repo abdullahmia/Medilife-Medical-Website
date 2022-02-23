@@ -1,0 +1,11 @@
+.page-title {
+    padding-top: 212px;
+    padding-bottom: 150px;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.page-title-content h1 {
+    font-size: 60px;
+}

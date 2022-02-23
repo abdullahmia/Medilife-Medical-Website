@@ -1,0 +1,26 @@
+.emergency {
+    background-color: #006cff;
+}
+
+.emergency-content i{
+    font-size: 130px;
+    color: #ffffff;
+    display: block;
+    margin-bottom: 50px
+}
+.emergency-content h2{
+    font-size: 44px;
+    margin-bottom: 20px
+}
+.emergency-content h3{
+    font-size: 60px;
+    color: #ffffff !important;
+    margin-bottom: 0;
+}
+
+.emergency-helpline h5 {
+    color: white;
+}
+.emergency-helpline p {
+    line-height: 2;
+}

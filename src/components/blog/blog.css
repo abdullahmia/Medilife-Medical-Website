@@ -1,0 +1,35 @@
+.blog-image {
+    height: 300px;
+    background-position: center;
+    background-size: cover;
+}
+
+.blog-time {
+    background-color: #006cff;
+    width: 141px;
+    height: 47px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: white;
+    border-radius: 2px;
+    position: relative;
+    top: 24px;
+    left: 20px;
+}
+
+.blog-content h2 {
+    font-size: 22px;
+}
+
+.blog-content p {
+    color: #57595c;
+    font-size: 15px;
+    line-height: 2;
+    font-weight: 400;
+}
+
+.blog-content .blog-link {
+    font-size: 14px;
+    color: #57595c;
+}

@@ -1,0 +1,39 @@
+.doctor-search {
+    margin-top: -80px;
+}
+
+.doctor-search-left {
+    background-color: #081f3e;
+}
+
+.search-input {
+    width: 100%;
+    padding: 10px;
+    border: none;
+    background-color: transparent;
+    color: aliceblue;
+    border: 2px solid rgba(255, 255, 255, 0.226);
+}
+
+.search-input-noborder {
+    width: 100%;
+    padding: 10px;
+    border: none;
+    background-color: transparent;
+    color: aliceblue;
+    border-bottom: 2px solid rgba(255, 255, 255, 0.226);
+    font-style: italic;
+}
+
+.doctor-search-right {
+    background-color: #006cff;
+    padding: 20px;
+}
+
+.search-address-item {}
+.search-address-item i {
+    font-size: 23px;
+}
+.search-address-item p{
+    font-size: 14px;
+}

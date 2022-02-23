@@ -1,0 +1,86 @@
+* {
+    padding: 0;
+    margin: 0;
+    outline: 0;
+    font-family: 'Roboto', sans-serif;
+}
+
+/* ========= Initial Styles  ========== */
+h1, h2, h3, h4, h5, h6 {
+    color: #081f3e;
+    font-weight: 700;
+}
+.medilife-btn {
+    display: inline-block;
+    color: #ffffff;
+    background-color: #006cff;
+    height: 45px;
+    padding: 0 55px 0 30px;
+    line-height: 42px;
+    font-size: 14px;
+    min-width: 140px;
+    border-radius: 0;
+    border: 1px solid #006cff;
+    font-weight: 700;
+    position: relative;
+    z-index: 1;
+    -webkit-transition-duration: 500ms;
+    transition-duration: 500ms;
+    text-decoration: none;
+}
+
+.medilife-btn span {
+    width: 40px;
+    height: 45px;
+    background-color: #081f3e;
+    display: inline-block;
+    position: absolute;
+    top: -1px;
+    right: -1px;
+    font-size: 24px;
+    color: #ffffff;
+    font-weight: 500;
+    -webkit-transition-duration: 500ms;
+    transition-duration: 500ms;
+}
+
+.medilife-btn:hover {
+    background: #081f3e;
+    border: 1px solid #081f3e;
+    color: white;
+}
+
+.medilife-btn:hover span, .medilife-btn:focus span {
+    color: #ffffff;
+    background-color: #006cff;
+}
+
+.medilife-appoint-btn {
+    display: inline-block;
+    color: #ffffff;
+    background-color: tomato;
+    height: 50px;
+    padding: 0 15px;
+    line-height: 50px;
+    font-size: 14px;
+    min-width: 140px;
+    border-radius: 0;
+    font-weight: 500;
+    -webkit-transition-duration: 500ms;
+    transition-duration: 500ms;
+    text-decoration: none;
+    text-transform: uppercase;
+    box-shadow: none;
+}
+
+.medilife-appoint-btn:hover {
+    color: black;
+}
+
+.wrapper-top {
+    padding-top: 100px;
+}
+
+.wrapper-bottom {
+    padding-bottom: 100px;
+}
